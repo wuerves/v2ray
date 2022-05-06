@@ -21,7 +21,7 @@ Github 项目地址：https://github.com/pcb900817/v2ray
 | 1 vCPU  | 50 Mbps | 800 GB/月 | ￥49.00/月 | <a href="https://www.dogyun.com/?ref=jv98open" target="_blank">购买</a> |   
 
   
-  <img src="https://download.jv98.com/vps/dogyun.com.png" width = "80%" height = "80%" alt="图片名称" align=center />
+  <img src="https://download.shluqu.cn/wp-content/uploads/2021/05/QQ%E6%88%AA%E5%9B%BE20210510124515-1024x553.png" width = "80%" height = "80%" alt="图片名称" align=center />
 
 ## 搬瓦工
 想要搭建 V2Ray， 拥有一个 VPS 是必需的。
@@ -29,7 +29,7 @@ Github 项目地址：https://github.com/pcb900817/v2ray
 
 |  CPU   | 带宽  |  流量   | 价格  | 购买链接  |
 |  ----  | ----  | ----  | ----  | ----  |
-| 2 vCPU  | 1 G | 1 TB/月 | $49.99 / 年 | <a href="https://bwh88.net/aff.php?aff=50309&pid=58" target="_blank">购买</a> |  
+| 2 vCPU  | 1 G | 1 TB/月 | $49.99 / 年 | <a href="https://bwh88.net/aff.php?aff=68113&pid=58" target="_blank">购买</a> |  
 
 ## 搬瓦工这款是最火热的 其他版本的不划算
 
