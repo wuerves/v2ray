@@ -25,7 +25,7 @@ Github 项目地址：https://github.com/pcb900817/v2ray
 
 ## 搬瓦工
 想要搭建 V2Ray， 拥有一个 VPS 是必需的。
-我们推荐使用：<a href="https://bwh88.net/aff.php?aff=50309&pid=58" target="_blank">搬瓦工（Bandwagon Host）</a> VPS 来搭建 V2Ray，搬瓦工是一个对中国用户极度友好的 VPS 商家，有香港，CN2 GIA 等线路，支持支付宝付款，当然也是支持退款的！
+我们推荐使用：<a href="https://bwh88.net/aff.php?aff=68113&pid=58" target="_blank">搬瓦工（Bandwagon Host）</a> VPS 来搭建 V2Ray，搬瓦工是一个对中国用户极度友好的 VPS 商家，有香港，CN2 GIA 等线路，支持支付宝付款，当然也是支持退款的！
 
 |  CPU   | 带宽  |  流量   | 价格  | 购买链接  |
 |  ----  | ----  | ----  | ----  | ----  |
